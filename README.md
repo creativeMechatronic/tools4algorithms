@@ -1,6 +1,6 @@
 # tools4algorithms - GPL v.3
 
-Este repositório é, e sempre será de **domínio público!** Todos que quiserem contribuir estão convidados para se juntarem a nós e fazer parte desse movimento.
+Este repositório é, e sempre será de **domínio público!** Todos os que quiserem contribuir estão convidados a se juntarem.
 
 ## Introdução
 
